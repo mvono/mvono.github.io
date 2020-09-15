@@ -39,7 +39,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
       	E. Bron et al.<br>
       	<i style='color:#db6e00'>Astronomy & Astrophysics</i> (in press), 2020<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2007.13593"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
-		<a style="font-size:15px" href="files/papers/2020_AA_Bron.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a></li> &emsp;
+		<a style="font-size:15px" href="../files/papers/2020_AA_Bron.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://doi.org/10.1051/0004-6361/202038040"><i class="ai ai-doi"></i> doi</a>
   	</li>
   		<li>
@@ -47,7 +47,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
       	A. Roueff et al.<br>
       	<i style='color:#db6e00'>Astronomy & Astrophysics</i> (in press), 2020<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2005.08317"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
-		<a style="font-size:15px" href="files/papers/2020_AA_Roueff.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a></li> &emsp;
+		<a style="font-size:15px" href="../files/papers/2020_AA_Roueff.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://doi.org/10.1051/0004-6361/202037776"><i class="ai ai-doi"></i> doi</a>
   	</li>
   		<li>
@@ -55,7 +55,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
       	<b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
       	<i style='color:#db6e00'>IEEE Transactions on Signal Processing</i>, vol. 67, no. 6, pp. 1648-1661, March 2019<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/1804.05809v2"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
-		<a style="font-size:15px" href="files/papers/2019_TSP_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a></li> &emsp;
+		<a style="font-size:15px" href="../files/papers/2019_TSP_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://github.com/mvono/2019-TSP-split-Gibbs-sampler"><i class="fab fa-fw fa-github"></i> code</a> &emsp;
 		<a style="font-size:15px" href="https://doi.org/10.1109/TSP.2019.2894825"><i class="ai ai-doi"></i> doi</a> 
   	</li>
