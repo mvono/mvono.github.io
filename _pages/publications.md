@@ -9,7 +9,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 ## Preprints
 
-<ol reversed style=" margin-bottom: 5px;">
+<ol reversed style=" margin-bottom: 0.8em;">
 	<li>
 	 	Quantitative inference of the H2 column densities from 3 mm molecular emission: A case study towards Orion B<br>
 	    P. Gratier et al.<br>
@@ -26,7 +26,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 ## Journal papers
 
-<ol reversed style=" margin-bottom: 5px;">
+<ol reversed style=" margin-bottom: 0.8em;">
 	<li>
 	 	Asymptotically exact data augmentation: models, properties and algorithms<br>
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
