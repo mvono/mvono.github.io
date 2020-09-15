@@ -32,7 +32,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
 	    <i style='color:#db6e00'>Journal of Computational and Graphical Statistics</i> (in press), 2020<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/1902.05754"><i class="ai ai-arxiv"></i> arXiv</a> &emsp; 
-		<a style="font-size:15px" href="https://github.com/mvono/2020-JCGS-AXDA"><i class="fa fa-fw fa-github"></i> code</a>
+		<a style="font-size:15px" href="https://github.com/mvono/2020-JCGS-AXDA"><i class="fab fa-fw fa-github"></i> code</a>
   	</li>
 	<li>
 	 	Tracers of the ionization fraction in dense and translucent gas. I. Automated exploitation of massive astrochemical model grids<br> 
