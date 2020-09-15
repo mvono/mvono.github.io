@@ -11,8 +11,8 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
-	  	<b>Quantitative inference of the H2 column densities from 3 mm molecular emission: A case study towards Orion B</b><br>
-	    <b>P. Gratier et al.</b>
+	 	Quantitative inference of the H2 column densities from 3 mm molecular emission: A case study towards Orion B<br>
+	    P. Gratier et al.
 		<div class="btn-group">
 			<a class="btn" href="https://arxiv.org/abs/2008.13417">
 		      <i class="ai ai-arxiv"></i>
@@ -21,7 +21,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 		</div>
   	</li>
 	<li>
-	  	<b>Efficient MCMC sampling with dimension-free convergence rate using ADMM-type splitting</b><br>
+	  	Efficient MCMC sampling with dimension-free convergence rate using ADMM-type splitting<br>
 	    <b>M. Vono</b>, D. Paulin, and A. Doucet
 		<div class="btn-group">
 			<a class="btn" href="https://arxiv.org/abs/1905.11937">
