@@ -73,13 +73,28 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 		<a style="font-size:15px" href="https://ieeexplore.ieee.org/document/8920859"><i class="ai ai-doi"></i> doi</a> &emsp;
 		<a style="font-size:15px" href="../files/bib/2019_WHISPERS_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
   	</li>
+  	<li>
+	 	Modèles augmentés asymptotiquement exacts<br>
+	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
+	    <i style='color:#db6e00'>GRETSI</i>, Lille, France, 2019<br>
+		<a style="font-size:15px" href="../files/papers/2019_GRETSI_AXDA_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
+		<a style="font-size:15px" href="../files/bib/2019_GRETSI_AXDA_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
+  	</li>
+  	<li>
+	 	Un modèle augmenté asymptotiquement exact pour la restauration bayésienne d’images dégradées par un bruit de Poisson<br>
+	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
+	    <i style='color:#db6e00'>GRETSI</i>, Lille, France, 2019<br>
+		<a style="font-size:15px" href="../files/papers/2019_GRETSI_Poisson_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
+		<a style="font-size:15px" href="../files/bib/2019_GRETSI_Poisson_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
+  	</li>
 	<li>
 	 	Bayesian image restoration under Poisson noise and log-concave prior<br> 
       	<b>M. Vono</b>, N. Dobigeon and P. Chainais<br> 
       	<i style='color:#db6e00'>IEEE ICASSP</i>, Brighton, U.K., 2019<br>
 		<a style="font-size:15px" href="../files/papers/2019_ICASSP_Poisson_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://ieeexplore.ieee.org/document/8683031"><i class="ai ai-doi"></i> doi</a> &emsp;
-		<a style="font-size:15px" href="../files/bib/2019_ICASSP_Poisson_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
+		<a style="font-size:15px" href="../files/bib/2019_ICASSP_Poisson_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> &emsp;
+		<a style="font-size:15px" href="https://github.com/mvono/2019-ICASSP-Poisson-image-restoration"><i class="fab fa-fw fa-github"></i> code</a>
   	</li>
   		<li>
 	 	Efficient sampling through variable splitting-inspired Bayesian hierarchical models<br> 
@@ -87,7 +102,8 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
       	<i style='color:#db6e00'>IEEE ICASSP</i>, Brighton, U.K., 2019<br>
 		<a style="font-size:15px" href="../files/papers/2019_ICASSP_SGS_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://ieeexplore.ieee.org/document/8682982"><i class="ai ai-doi"></i> doi</a> &emsp;
-		<a style="font-size:15px" href="../files/bib/2019_ICASSP_SGS_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
+		<a style="font-size:15px" href="../files/bib/2019_ICASSP_SGS_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> &emsp;
+		<a style="font-size:15px" href="https://github.com/mvono/2019-TSP-split-Gibbs-sampler"><i class="fab fa-fw fa-github"></i> code</a>
   	</li>
   		<li>
 	 	Sparse Bayesian binary logistic regression using the split-and-augmented Gibbs sampler<br> 
@@ -95,7 +111,8 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
       	<i style='color:#db6e00'>IEEE MLSP</i>, Aalborg, Denmark, 2018<br>
 		<a style="font-size:15px" href="../files/papers/2018_MLSP_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://ieeexplore.ieee.org/document/8516963"><i class="ai ai-doi"></i> doi</a> &emsp;
-		<a style="font-size:15px" href="../files/bib/2018_MLSP_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a>
+		<a style="font-size:15px" href="../files/bib/2018_MLSP_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> &emsp;
+		<a style="font-size:15px" href="https://github.com/mvono/2018-MLSP-sparse-bayesian-logistic-regression"><i class="fab fa-fw fa-github"></i> code</a>
   	</li>
 </ol> 
 
