@@ -26,7 +26,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 ## Journal papers
 
-<ol reversed style=" margin-bottom: 0.8em;">
+<ol reversed style="margin-bottom: 15px;">
 	<li>
 	 	Asymptotically exact data augmentation: models, properties and algorithms<br>
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
