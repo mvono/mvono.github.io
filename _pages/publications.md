@@ -57,7 +57,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 		<a style="font-size:15px" href="https://arxiv.org/abs/1804.05809v2"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<a style="font-size:15px" href="../files/papers/2019_TSP_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://github.com/mvono/2019-TSP-split-Gibbs-sampler"><i class="fab fa-fw fa-github"></i> code</a> &emsp;
-		<a style="font-size:15px" href="../files/papers/2019_TSP_Vono.bib"><i class="fab fa-fw fa-github"></i> bibtex</a> &emsp;
+		<a style="font-size:15px" href="../files/bib/2019_TSP_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> &emsp;
 		<a style="font-size:15px" href="https://doi.org/10.1109/TSP.2019.2894825"><i class="ai ai-doi"></i> doi</a> 
   	</li>
 </ol>
