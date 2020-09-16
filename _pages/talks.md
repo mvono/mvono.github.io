@@ -1,30 +1,79 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Seminars and invited talks"
 permalink: /talks/
 author_profile: true
 ---
 
-<ol reversed>
-  <li>
-  	  <b>Efficient MCMC Sampling with Dimension-Free Convergence Rate using ADMM-type Splitting</b><br>
-      <a href="https://ailab.criteo.com/laplaces-demon-bayesian-machine-learning-at-scale/">Laplace's Demon Seminar</a>, jointly organized by <a href="https://ailab.criteo.com/">Criteo AI Lab</a> and <a href="https://sites.google.com/site/nicolaschopinstatistician/">Nicolas Chopin</a>, September 2020<br>
-	  <a style="font-size:15px" href="https://www.youtube.com/watch?v=O8LNn_5CokQ&feature=youtu.be"><i class="fas fa-fw fa-video"></i> talk</a>
-  </li>
-  <li>
-      <b>Asymptotically exact data augmentation: models, algorithms and theory</b><br>
-      Actuarial Mathematics & Statistics Seminar, organized by the <a href="http://www.macs.hw.ac.uk/school_seminars/seminar_AMS.php">School of Mathematics of Heriot Watt University</a>, Edinburgh, U.K., February 2020 
-  </li>
-  <li>
-      <b>Asymptotically exact data augmentation: models, algorithms and theory</b><br>
-      Workshop on optimization, probability and simulation, organized by the Shenzhen Institute of Artificial Intelligence and Robotics for Society (<a href="https://airs.cuhk.edu.cn/en/content/12631">AIRS</a>), Shenzhen (University of Hong Kong), China, December 2019 
-  </li>
-  <li>
-      <b>On artificial intelligence dedicated to supply chain and business strategy</b><br>
-      Mews Digital Day, organized by the management consulting firm <a href="https://www.mews-partners.com/en/">Mews Partners</a>, Toulouse, France, April 2019 
-  </li>
-  <li>
-      <b>Split-and-augmented Gibbs sampler - A divide & conquer approach to solve large-scale inference problems</b><br>
-      CRIStAL laboratory seminar organized by the <a href="http://seminaire.univ-lille1.fr/node/308">SigMA team</a>, Lille, France, May 2018
-  </li>
-</ol>
+<table width="100%">
+	<tr>
+    	<td>2020/09: </td>
+    	<td>
+    		Invited talk, <a href="https://ailab.criteo.com/laplaces-demon-bayesian-machine-learning-at-scale/">Laplace's Demon Seminar</a>, online<br/>
+	    	<span style="font-size:15px">
+	    	"Efficient MCMC sampling using ADMM-type splitting"
+	    	</span>
+	    	<br/><br/>
+    	</td>
+    </tr>
+    <tr>
+    	<td>2020/02: </td>
+    	<td>
+    		Invited talk, <a href="http://www.macs.hw.ac.uk/school_seminars/seminar_AMS.php">Actuarial Mathematics & Statistics Seminar</a>, School of Mathematics of Heriot Watt University, Edinburgh, U.K.<br/>
+	    	<span style="font-size:15px">
+	    	"Asymptotically exact data augmentation: models, properties and algorithms"
+	    	</span>
+	    	<br/><br/>
+    	</td>
+    </tr>
+    <tr>
+    	<td>2019/12: </td>
+    	<td>
+    		Invited talk, Toulouse Inderdisciplinary group on Deep Learning (TIDLE), Quai des Savoirs, Toulouse, France<br/>
+	    	<span style="font-size:15px">
+	    	"Asymptotically exact data augmentation: models, properties and algorithms"
+	    	</span>
+	    	<br/><br/>
+    	</td>
+    </tr>
+    <tr>
+    	<td>2019/12: </td>
+    	<td>
+    		Invited talk, Workshop on optimization, probability and simulation, organized by the Shenzhen Institute of Artificial Intelligence and Robotics for Society, University of Hong Kong, Shenzhen, China<br/>
+	    	<span style="font-size:15px">
+	    	"Asymptotically exact data augmentation: models, properties and algorithms"
+	    	</span>
+	    	<br/><br/>
+    	</td>
+    </tr>
+    <tr>
+    	<td>2019/04: </td>
+    	<td>
+    		Invited talk, Mews Digital Day, Mews Partners, Toulouse, France<br/>
+	    	<span style="font-size:15px">
+	    	"On artificial intelligence dedicated to supply chain and business strategy"
+	    	</span>
+	    	<br/><br/>
+    	</td>
+    </tr>	
+    <tr>
+    	<td>2019/03: </td>
+    	<td>
+    		Seminar, OxCSML Seminars, Department of Statistics, University of Oxford, Oxford, U.K.<br/>
+	    	<span style="font-size:15px">
+	    	"Asymptotically exact data augmentation: models, properties and algorithms"
+	    	</span>
+	    	<br/><br/>
+    	</td>
+    </tr>
+    <tr>
+    	<td>2018/05: </td>
+    	<td>
+    		Seminar, <a href="http://seminaire.univ-lille1.fr/node/308">CRIStAL Seminars</a>, Ecole Centrale de Lille, Lille, France<br/>
+	    	<span style="font-size:15px">
+	    	"Split-and-augmented Gibbs sampler - A divide & conquer approach to solve large-scale inference problems"
+	    	</span>
+	    	<br/><br/>
+    	</td>
+    </tr>	
+</table>
