@@ -17,6 +17,6 @@ I also hold a M.Sc. degree in applied mathematics from [University of Lille](htt
 I work on Monte Carlo methods for statistical machine learning and signal processing. I am particularly interested in the connections between optimisation and simulation-based approaches.
 
 ## News 
-<i class="fas fa-fw fa-calendar-plus"></i> **10/2020** My Ph.D. defense is scheduled on October 7, 2020.  
-<i class="fa fa-fw fa-newspaper"></i> **09/2020** [Paper](https://arxiv.org/abs/1902.05754) accepted in *Journal of Computational and Graphical Statistics*.  
-<i class="fa fa-fw fa-newspaper"></i> **08/2020** Revision of our [paper](https://arxiv.org/abs/1905.11937) on the theoretical analysis of the [Split Gibbs Sampler](https://ieeexplore.ieee.org/document/8625467/").  
+<i class="fas fa-fw fa-calendar-plus"></i> **2020/10** My Ph.D. defense is scheduled on October 7, 2020.  
+<i class="fa fa-fw fa-newspaper"></i> **2020/09** [Paper](https://arxiv.org/abs/1902.05754) accepted in *Journal of Computational and Graphical Statistics*.  
+<i class="fa fa-fw fa-newspaper"></i> **2020/08** Revision of our [paper](https://arxiv.org/abs/1905.11937) on the theoretical analysis of the [Split Gibbs Sampler](https://ieeexplore.ieee.org/document/8625467/").  
