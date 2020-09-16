@@ -54,7 +54,7 @@ author_profile: true
     <tr>
     	<td>2019/03</td>
     	<td>
-    		Seminar, OxCSML Seminars, Department of Statistics, University of Oxford, Oxford, U.K.<br/>
+    		Seminar, OxCSML Seminar, Department of Statistics, University of Oxford, Oxford, U.K.<br/>
 	    	<span>
 	    	"Asymptotically exact data augmentation: models, properties and algorithms"
 	    	</span>
@@ -63,7 +63,7 @@ author_profile: true
     <tr>
     	<td>2018/05</td>
     	<td>
-    		Seminar, <a href="http://seminaire.univ-lille1.fr/node/308">CRIStAL Seminars</a>, Ecole Centrale de Lille, Lille, France<br/>
+    		Seminar, <a href="http://seminaire.univ-lille1.fr/node/308">CRIStAL Seminar</a>, Ecole Centrale de Lille, Lille, France<br/>
 	    	<span>
 	    	"Split-and-augmented Gibbs sampler - A divide & conquer approach to solve large-scale inference problems"
 	    	</span>
