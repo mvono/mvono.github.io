@@ -11,6 +11,12 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
+	 	High-dimensional Gaussian sampling: a review and a unifying framework based on a stochastic proximal point algorithm<br>
+	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/"><i class="ai ai-arxiv"></i> arXiv</a>
+		<br/><br/>
+  	</li>
+	<li>
 	 	Quantitative inference of the H2 column densities from 3 mm molecular emission: A case study towards Orion B<br>
 	    P. Gratier et al.<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2008.13417"><i class="ai ai-arxiv"></i> arXiv</a>
