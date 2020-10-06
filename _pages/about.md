@@ -19,7 +19,6 @@ Prior to that, I graduated from [Ecole Centrale de Lille](http://centralelille.f
 I also hold a M.Sc. degree in applied mathematics from [University of Lille](http://www.univ-lille1.fr/home/).
 
 ## News 
-href="https://arxiv.org/abs/2010.01510"
 <i class="fa fa-fw fa-newspaper"></i> **2020/10** New [preprint](https://arxiv.org/abs/2010.01510) on high-dimensional Gaussian sampling. 
 <i class="fas fa-fw fa-calendar-plus"></i> **2020/10** My Ph.D. defense is scheduled on October 7, 2020.  
 <i class="fa fa-fw fa-newspaper"></i> **2020/09** [Paper](https://arxiv.org/abs/1902.05754) accepted in *Journal of Computational and Graphical Statistics*.  
