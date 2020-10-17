@@ -10,7 +10,7 @@ author_profile: true
     	<td>
     		<b>Intermarché</b>, Strategy, Commercial Performance and Data direction, Paris<br/>
 	    	<span>
-	    	Data strategy
+	    	<i>Data strategy</i>
 	    	</span>
     	</td>
     </tr>
@@ -19,7 +19,7 @@ author_profile: true
         <td>
             <b>Leroy Merlin France</b>, Pricing direction, Lille<br/>
             <span>
-            Dynamic pricing in clearance and promotional events
+            <i>Dynamic pricing in clearance and promotional events</i>
             </span>
         </td>
     </tr>
