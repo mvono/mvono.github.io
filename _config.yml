@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maxime Vono"
 title_separator          : "-"
 name                     : &name "Maxime Vono"
-description              : &description "Ph.D. Student in Statistics"
+description              : &description "Ph.D. in Statistics"
 url                      : https://mvono.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mvono.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Maxime Vono"
   avatar           : "image_MV.png"
-  bio              : "Ph.D. Student in Statistics"
-  location         : "Toulouse"
+  bio              : "Ph.D. in Statistics"
+  location         : "Paris"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=R5dfDTAAAAAJ&hl=en"
