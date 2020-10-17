@@ -16,10 +16,9 @@ author_profile: true
 * 2017: Data Scientist intern at [Vekia](https://www.vekia.fr/en/homepage/)
 <i class="fa fa-clock-o" aria-hidden="true"></i> Sales forecasting and supply chain planning 
 * 2016-2017: Data Scientist intern and Operations Research consultant at [Leroy Merlin France](https://www.leroymerlin.fr/)
-<p class="page__meta">
-  <i class="fa fa-clock-o" aria-hidden="true"></i> 
+<i class="page__meta">
   Dynamic pricing in clearance periods, pricing performance analyses and turnover forecasting  
-</p>
+</i>
   
 ## Community involvement
 * Reviewer for international conferences ICASSP (2019) and MLSP (2019)
