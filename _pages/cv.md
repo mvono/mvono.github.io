@@ -14,15 +14,15 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 
 ## Work experience
 * 2018-2019: Data Science consultant at [Intermarché Alimentaire International](https://www.mousquetaires.com/en/our-store-brands/food/intermarche/)<br/>
-<i class="page__meta">
+<i class="archive__item-excerpt" itemprop="description">
   Data strategy 
 </i>
 * 2017: Data Scientist intern at [Vekia](https://www.vekia.fr/en/homepage/)<br/>
-<i class="page__meta">
+<i class="archive__item-excerpt" itemprop="description">
   Sales forecasting and supply chain planning 
 </i> 
 * 2016-2017: Data Scientist intern and Operations Research consultant at [Leroy Merlin France](https://www.leroymerlin.fr/)<br/>
-<i class="page__meta">
+<i class="archive__item-excerpt" itemprop="description">
   Dynamic pricing in clearance periods, pricing performance analyses and turnover forecasting  
 </i>
   
