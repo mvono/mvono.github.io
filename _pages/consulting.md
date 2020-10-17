@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Industrial partnerships"
 permalink: /consulting/
 author_profile: true
