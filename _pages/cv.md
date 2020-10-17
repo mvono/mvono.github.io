@@ -15,18 +15,21 @@ Education
 
 Work experience
 ======
+* 2018-2019: Data Science consultant at [Intermarché Alimentaire International](https://www.mousquetaires.com/en/our-store-brands/food/intermarche/)
+<p class="page__meta">
+  <i class="fa fa-clock-o" aria-hidden="true"></i> 
+  Data strategy 
+</p>
 * 2017: Data Scientist intern at [Vekia](https://www.vekia.fr/en/homepage/)
-  <ul>
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> Sales forecasting and supply chain planning </p>
-  </ul>
-  * Sales forecasting and supply chain planning
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<p class="page__meta">
+  <i class="fa fa-clock-o" aria-hidden="true"></i> 
+  Sales forecasting and supply chain planning 
+</p>
+* 2016-2017: Data Scientist intern and Operations Research consultant at [Leroy Merlin France](https://www.leroymerlin.fr/)
+<p class="page__meta">
+  <i class="fa fa-clock-o" aria-hidden="true"></i> 
+  Dynamic pricing in clearance periods, pricing performance analyses and turnover forecasting  
+</p>
   
 Community involvement
 ======
