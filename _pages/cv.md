@@ -11,11 +11,15 @@ author_profile: true
 * M.Eng. in Data Sciences, Ecole Centrale de Lille, 2017
 
 ## Work experience
-* 2018-2019: Data Science consultant at [Intermarché Alimentaire International](https://www.mousquetaires.com/en/our-store-brands/food/intermarche/)
-<i class="fa fa-clock-o" aria-hidden="true"></i> Data strategy 
-* 2017: Data Scientist intern at [Vekia](https://www.vekia.fr/en/homepage/)
-<i class="fa fa-clock-o" aria-hidden="true"></i> Sales forecasting and supply chain planning 
-* 2016-2017: Data Scientist intern and Operations Research consultant at [Leroy Merlin France](https://www.leroymerlin.fr/)
+* 2018-2019: Data Science consultant at [Intermarché Alimentaire International](https://www.mousquetaires.com/en/our-store-brands/food/intermarche/)</br>
+<i class="page__meta">
+  Data strategy 
+</i>
+* 2017: Data Scientist intern at [Vekia](https://www.vekia.fr/en/homepage/)</br>
+<i class="page__meta">
+  Sales forecasting and supply chain planning 
+</i> Sales forecasting and supply chain planning 
+* 2016-2017: Data Scientist intern and Operations Research consultant at [Leroy Merlin France](https://www.leroymerlin.fr/)</br>
 <i class="page__meta">
   Dynamic pricing in clearance periods, pricing performance analyses and turnover forecasting  
 </i>
