@@ -9,7 +9,7 @@ author_profile: true
 	<tr>
     	<td>2020/09</td>
     	<td>
-    		Invited talk, <a href="https://ailab.criteo.com/laplaces-demon-bayesian-machine-learning-at-scale/">Laplace's Demon Seminar</a>, online<br/>
+    		Seminar, <a href="https://ailab.criteo.com/laplaces-demon-bayesian-machine-learning-at-scale/">Laplace's Demon Seminar</a>, online<br/>
 	    	<span>
 	    	"Efficient MCMC sampling using ADMM-type splitting" <a href="https://www.youtube.com/watch?v=O8LNn_5CokQ&feature=youtu.be"><i class="fas fa-fw fa-video"></i> talk</a>
 	    	</span>
@@ -18,7 +18,7 @@ author_profile: true
     <tr>
     	<td>2020/02</td>
     	<td>
-    		Invited talk, <a href="http://www.macs.hw.ac.uk/school_seminars/seminar_AMS.php">Actuarial Mathematics & Statistics Seminar</a>, School of Mathematics of Heriot Watt University, Edinburgh, U.K.<br/>
+    		Seminar, <a href="http://www.macs.hw.ac.uk/school_seminars/seminar_AMS.php">Actuarial Mathematics & Statistics Seminar</a>, School of Mathematics of Heriot Watt University, Edinburgh, U.K.<br/>
 	    	<span>
 	    	"Asymptotically exact data augmentation: models, properties and algorithms"
 	    	</span>

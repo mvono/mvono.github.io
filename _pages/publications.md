@@ -74,7 +74,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
   	</li>
 </ol>
 
-## Conference papers 
+## International conference papers 
 
 <ol reversed>
 	<li>
@@ -85,22 +85,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 		<a style="font-size:15px" href="https://ieeexplore.ieee.org/document/8920859"><i class="ai ai-doi"></i> doi</a> &emsp;
 		<a style="font-size:15px" href="../files/bib/2019_WHISPERS_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a>
 		<br/><br/> 
-  	</li>
-  	<li>
-	 	Modèles augmentés asymptotiquement exacts<br>
-	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
-	    <i style='color:#db6e00'>GRETSI</i>, Lille, France, 2019<br>
-		<a style="font-size:15px" href="../files/papers/2019_GRETSI_AXDA_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
-		<a style="font-size:15px" href="../files/bib/2019_GRETSI_AXDA_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
-		<br/><br/>
-  	</li>
-  	<li>
-	 	Un modèle augmenté asymptotiquement exact pour la restauration bayésienne d’images dégradées par un bruit de Poisson<br>
-	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
-	    <i style='color:#db6e00'>GRETSI</i>, Lille, France, 2019<br>
-		<a style="font-size:15px" href="../files/papers/2019_GRETSI_Poisson_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
-		<a style="font-size:15px" href="../files/bib/2019_GRETSI_Poisson_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
-		<br/><br/>
   	</li>
 	<li>
 	 	Bayesian image restoration under Poisson noise and log-concave prior<br> 
@@ -133,3 +117,22 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
   	</li>
 </ol> 
 
+## National conference papers 
+<ol reversed>
+  	<li>
+	 	Modèles augmentés asymptotiquement exacts<br>
+	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
+	    <i style='color:#db6e00'>GRETSI</i>, Lille, France, 2019<br>
+		<a style="font-size:15px" href="../files/papers/2019_GRETSI_AXDA_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
+		<a style="font-size:15px" href="../files/bib/2019_GRETSI_AXDA_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
+		<br/><br/>
+  	</li>
+  	<li>
+	 	Un modèle augmenté asymptotiquement exact pour la restauration bayésienne d’images dégradées par un bruit de Poisson<br>
+	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
+	    <i style='color:#db6e00'>GRETSI</i>, Lille, France, 2019<br>
+		<a style="font-size:15px" href="../files/papers/2019_GRETSI_Poisson_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
+		<a style="font-size:15px" href="../files/bib/2019_GRETSI_Poisson_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> 
+		<br/><br/>
+  	</li>
+</ol>

@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or [long](../files/cv/VONO_CV.pdf) pdf version of my CV.
+For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or [long](../files/cv/CV_long_VONO.pdf) pdf version of my CV.
 
 ## Education
 * Ph.D. in Statistics, University of Toulouse, 2020
