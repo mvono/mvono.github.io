@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 <table width="100%">
+    <tr>
+        <td>2020/12</td>
+        <td>
+            Seminar, <a href="https://s3-seminar.github.io/">S<sup>3</sup> Seminar - The Paris-Saclay Signal Seminar</a>, CentraleSupelec<br/>
+            <span>
+            "Efficient MCMC sampling via asymptotically data augmentation"
+            </span>
+        </td>
+    </tr>
 	<tr>
     	<td>2020/09</td>
     	<td>
