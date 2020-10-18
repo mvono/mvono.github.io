@@ -11,7 +11,7 @@ author_profile: true
         <td>
             Seminar, <a href="https://s3-seminar.github.io/">S<sup>3</sup> Seminar - The Paris-Saclay Signal Seminar</a>, CentraleSupelec<br/>
             <span>
-            "Efficient MCMC sampling via asymptotically data augmentation"
+            "Efficient MCMC sampling via asymptotically exact data augmentation"
             </span>
         </td>
     </tr>
