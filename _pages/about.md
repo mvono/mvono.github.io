@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently (October 2020) obtained my Ph.D. in Statistics from the University of Toulouse where I was supervised by [Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html) and [Pierre Chainais](http://pierrechainais.ec-lille.fr), within the [SC](http://sc.enseeiht.fr/) group of the [IRIT](https://www.irit.fr/) laboratory.
+I recently (October 2020) obtained my Ph.D. in statistics from the University of Toulouse where I was supervised by [Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html) and [Pierre Chainais](http://pierrechainais.ec-lille.fr), within the [SC](http://sc.enseeiht.fr/) group of the [IRIT](https://www.irit.fr/) laboratory.
 
-In Spring 2019, I was a research visiting scholar at the [Department of Statistics](http://www.stats.ox.ac.uk/) of the University of Oxford working with [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/).
+In spring 2019, I was a research visiting scholar at the [Department of Statistics](http://www.stats.ox.ac.uk/) of the University of Oxford working with [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/).
 
 I am affiliated to the [ORION-B project](https://www.iram.fr/~pety/ORION-B/) which gathers astrophysicists, data scientists and statisticians in order to better understand the formation of stars in our universe.
 
