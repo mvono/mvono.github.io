@@ -7,6 +7,14 @@ author_profile: true
 
 You can also find all my research works on my [Google Scholar](https://scholar.google.fr/citations?user=R5dfDTAAAAAJ&hl=en) page.
 
+## Thesis
+
+<li>
+	Asymptotically exact data augmentation – Models and Monte Carlo sampling with applications to Bayesian inference<br>
+	<i style='color:#db6e00'>Ph.D. thesis</i>, Institut National Polytechnique de Toulouse, 2020<br>
+	<a style="font-size:15px" href="../files/papers/2020_thesis_manuscript.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> 
+</li>
+
 ## Preprints
 
 <ol reversed>
