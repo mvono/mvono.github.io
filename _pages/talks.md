@@ -15,10 +15,16 @@ author_profile: true
             </span>
         </td>
     </tr>
+    <tr>
+        <td>2020/11</td>
+        <td>
+            Invited talk, Workshop on Large scale simulation and High dimensional Sampling, organized by Huawei, online<br/>
+        </td>
+    </tr>
 	<tr>
     	<td>2020/09</td>
     	<td>
-    		Seminar, <a href="https://ailab.criteo.com/laplaces-demon-bayesian-machine-learning-at-scale/">Laplace's Demon Seminar</a>, online<br/>
+    		Seminar, <a href="https://ailab.criteo.com/laplaces-demon-bayesian-machine-learning-at-scale/">Laplace's Demon Seminar</a>, organized by Criteo AI Lab and ENSAE, online<br/>
 	    	<span>
 	    	"Efficient MCMC sampling using ADMM-type splitting" <a href="https://www.youtube.com/watch?v=O8LNn_5CokQ&feature=youtu.be"><i class="fas fa-fw fa-video"></i> talk</a>
 	    	</span>
