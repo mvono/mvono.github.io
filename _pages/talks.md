@@ -18,7 +18,10 @@ author_profile: true
     <tr>
         <td>2020/11</td>
         <td>
-            Invited talk, Workshop on Large scale simulation and High dimensional Sampling, organized by Huawei, online<br/>
+            Invited talk, Workshop on large scale simulation and high-dimensional sampling, organized by Huawei, online<br/>
+            <span>
+            "Asymptotically exact data augmentation (AXDA): An approximate statistical framework for Bayesian inference" and "Efficient sampling in high-dimensional and large-scale problems based on AXDA"
+            </span>
         </td>
     </tr>
 	<tr>
