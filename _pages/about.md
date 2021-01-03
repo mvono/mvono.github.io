@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently (October 2020) obtained my Ph.D. in statistics from the University of Toulouse where I was supervised by [Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html) and [Pierre Chainais](http://pierrechainais.ec-lille.fr), within the [SC](http://sc.enseeiht.fr/) group of the [IRIT](https://www.irit.fr/) laboratory.
+Since January 2021, I am a research associate at the [Lagrange Mathematics and Computing Research Center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of [Huawei](https://www.huawei.com/) working with [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr).
+
+I obtained my Ph.D. in statistics on October 7, 2020 from the University of Toulouse where I was supervised by [Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html) and [Pierre Chainais](http://pierrechainais.ec-lille.fr), within the [SC](http://sc.enseeiht.fr/) group of the [IRIT](https://www.irit.fr/) laboratory.
 
 In spring 2019, I was a research visiting scholar at the [Department of Statistics](http://www.stats.ox.ac.uk/) of the University of Oxford working with [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/).
 
