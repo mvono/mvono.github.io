@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maxime Vono"
 title_separator          : "-"
 name                     : &name "Maxime Vono"
-description              : &description "Research Associate at Lagrange Center, Huawei"
+description              : &description "Research Associate at Lagrange Research Center, Huawei"
 url                      : https://mvono.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mvono.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maxime Vono"
   avatar           : "image_MV.png"
-  bio              : "Research Associate at Lagrange Center, Huawei"
+  bio              : "Research Associate at Lagrange Research Center, Huawei"
   location         : "Paris"
   employer         :
   pubmed           : 
