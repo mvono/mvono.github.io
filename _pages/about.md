@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since January 2021, I am a research associate at the [Lagrange Mathematics and Computing Research Center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of [Huawei](https://www.huawei.com/) working with [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr).
+I am a research associate at the [Lagrange Mathematics and Computing Research Center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of [Huawei](https://www.huawei.com/) working with [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr).
 
 I obtained my Ph.D. in statistics on October 7, 2020 from the University of Toulouse where I was supervised by [Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html) and [Pierre Chainais](http://pierrechainais.ec-lille.fr), within the [SC](http://sc.enseeiht.fr/) group of the [IRIT](https://www.irit.fr/) laboratory.
 
