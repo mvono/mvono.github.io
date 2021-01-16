@@ -22,7 +22,7 @@ My research interests lie in Bayesian modelling, the development of efficient co
 My recent works focused on deriving a broad [approximate statistical framework](https://doi.org/10.1080/10618600.2020.1826954) and associated [Monte Carlo sampling](https://arxiv.org/abs/1905.11937) approaches by taking inspiration from the [variable splitting](https://doi.org/10.1109/TSP.2019.2894825) method in optimisation (e.g., used by quadratic penalty approaches).
 
 ## News
-<i class="fas fa-landmark"></i> **2020/11** I've joined the [Lagrange research center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of Huawei and will work in the group of Eric Moulines.  
+<i class="fas fa-landmark"></i> **2020/11** I've joined the [Lagrange center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of Huawei and to work with Eric Moulines.  
 <i class="fa fa-fw fa-newspaper"></i> **2020/10** New [preprint](https://arxiv.org/abs/2010.01510) on high-dimensional Gaussian sampling.  
 <i class="fas fa-user-graduate"></i> **2020/10** My Ph.D. defense is scheduled on October 7, 2020.  
 <i class="fa fa-fw fa-newspaper"></i> **2020/09** [Paper](https://arxiv.org/abs/1902.05754) accepted in *Journal of Computational and Graphical Statistics*.  
