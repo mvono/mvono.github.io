@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research associate at the [Lagrange Mathematics and Computing Research Center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of [Huawei](https://www.huawei.com/) working with [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr).
+I am a research associate at the [Lagrange Mathematics and Computing Research Center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of [Huawei](https://www.huawei.com/) working with [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr) and [Alain Durmus](http://alain.perso.math.cnrs.fr/).
 
 I obtained my Ph.D. in statistics on October 7, 2020 from the University of Toulouse where I was supervised by [Nicolas Dobigeon](http://dobigeon.perso.enseeiht.fr/index.html) and [Pierre Chainais](http://pierrechainais.ec-lille.fr), within the [SC](http://sc.enseeiht.fr/) group of the [IRIT](https://www.irit.fr/) laboratory.
 
@@ -19,10 +19,11 @@ I am affiliated to the [ORION-B project](https://www.iram.fr/~pety/ORION-B/) whi
 ## Research interests
 My research interests lie in Bayesian modelling, the development of efficient computational methods for inferring unknown objects in complex problems and their applications to signal/image processing and machine learning.
 
-My recent works focused on deriving a broad [approximate statistical framework](https://doi.org/10.1080/10618600.2020.1826954) and associated [Monte Carlo sampling](https://arxiv.org/abs/1905.11937) approaches by taking inspiration from the [variable splitting](https://doi.org/10.1109/TSP.2019.2894825) method in optimisation, e.g., used by quadratic penalty approaches and the alternating direction method of multipliers (ADMM).
+My recent works focused on deriving a broad [approximate statistical framework](https://doi.org/10.1080/10618600.2020.1826954) and associated [Monte Carlo sampling](https://arxiv.org/abs/1905.11937) approaches by taking inspiration from the [variable splitting](https://doi.org/10.1109/TSP.2019.2894825) method in optimisation (e.g., used by quadratic penalty approaches).
 
-## News 
+## News
+<i class="fas fa-landmark"></i> **2020/11** I've joined the [Lagrange research center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of Huawei and will work in the group of Eric Moulines.  
 <i class="fa fa-fw fa-newspaper"></i> **2020/10** New [preprint](https://arxiv.org/abs/2010.01510) on high-dimensional Gaussian sampling.  
-<i class="fas fa-fw fa-calendar-plus"></i> **2020/10** My Ph.D. defense is scheduled on October 7, 2020.  
+<i class="fas fa-user-graduate"></i> **2020/10** My Ph.D. defense is scheduled on October 7, 2020.  
 <i class="fa fa-fw fa-newspaper"></i> **2020/09** [Paper](https://arxiv.org/abs/1902.05754) accepted in *Journal of Computational and Graphical Statistics*.  
 <i class="fa fa-fw fa-newspaper"></i> **2020/08** Revision of our [paper](https://arxiv.org/abs/1905.11937) on the theoretical analysis of the [Split Gibbs Sampler](https://ieeexplore.ieee.org/document/8625467/").  
