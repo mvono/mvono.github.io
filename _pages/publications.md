@@ -44,28 +44,28 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 		<a style="font-size:15px" href="https://github.com/mvono/2020-JCGS-AXDA"><i class="fab fa-fw fa-github"></i> code</a>
 		<br/><br/>
   	</li>
-  	<li>
-	 	Quantitative inference of the H2 column densities from 3 mm molecular emission: A case study towards Orion B<br>
-	    P. Gratier et al.<br>
-	    <i style='color:#db6e00'>Astronomy & Astrophysics</i> (in press), 2020<br>
-		<a style="font-size:15px" href="https://arxiv.org/abs/2008.13417"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
-		<a style="font-size:15px" href="../files/papers/2020_AA_Gratier.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
-		<a style="font-size:15px" href="https://doi.org/10.1051/0004-6361/202037871"><i class="ai ai-doi"></i> doi</a>
-		<br/><br/>
-  	</li>
 	<li>
 	 	Tracers of the ionization fraction in dense and translucent gas. I. Automated exploitation of massive astrochemical model grids<br> 
       	E. Bron et al.<br>
-      	<i style='color:#db6e00'>Astronomy & Astrophysics</i> (in press), 2020<br>
+      	<i style='color:#db6e00'>Astronomy & Astrophysics</i>, vol. 645, no. A28, pp. 1-28, January 2021<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2007.13593"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<a style="font-size:15px" href="../files/papers/2020_AA_Bron.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://doi.org/10.1051/0004-6361/202038040"><i class="ai ai-doi"></i> doi</a>
 		<br/><br/>
   	</li>
-  		<li>
+  	<li>
+	 	Quantitative inference of the H2 column densities from 3 mm molecular emission: A case study towards Orion B<br>
+	    P. Gratier et al.<br>
+	    <i style='color:#db6e00'>Astronomy & Astrophysics</i>, vol. 645, no. A27, pp. 1-27, January 2021<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/2008.13417"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<a style="font-size:15px" href="../files/papers/2020_AA_Gratier.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
+		<a style="font-size:15px" href="https://doi.org/10.1051/0004-6361/202037871"><i class="ai ai-doi"></i> doi</a>
+		<br/><br/>
+  	</li>
+  	<li>
 	 	C18O, 13CO, and 12CO abundances and excitation temperatures in the Orion B molecular cloud<br> 
       	A. Roueff et al.<br>
-      	<i style='color:#db6e00'>Astronomy & Astrophysics</i> (in press), 2020<br>
+      	<i style='color:#db6e00'>Astronomy & Astrophysics</i>, vol. 645, no. A26, pp. 1-27, January 2021<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2005.08317"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<a style="font-size:15px" href="../files/papers/2020_AA_Roueff.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://doi.org/10.1051/0004-6361/202037776"><i class="ai ai-doi"></i> doi</a>
