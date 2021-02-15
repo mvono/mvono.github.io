@@ -19,7 +19,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	 	DG-LMC: a turn-key and scalable synchronous distributed MCMC algorithm via Langevin Monte Carlo within Gibbs<br>
 	    V. Plassier<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, A. Durmus and E. Moulines<br>
-		<br/><br/>
   	</li>
 	<li>
 	 	High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm<br>
@@ -152,4 +151,4 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
   	</li>
 </ol>
 
-<sup class="star">*</sup>: indicates equal contribution
+<small><sup class="star">*</sup> indicates equal contribution.</small>
