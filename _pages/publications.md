@@ -17,6 +17,11 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
+	 	DG-LMC: a turn-key and scalable synchronous distributed MCMC algorithm via Langevin Monte Carlo within Gibbs<br>
+	    V. Plassier<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, A. Durmus and E. Moulines<br>
+		<br/><br/>
+  	</li>
+	<li>
 	 	High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm<br>
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2010.01510"><i class="ai ai-arxiv"></i> arXiv</a>
@@ -24,7 +29,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
   	</li>
 	<li>
 	  	Efficient MCMC sampling with dimension-free convergence rate using ADMM-type splitting<br>
-	    <b>M. Vono</b>, D. Paulin and A. Doucet<br>
+	    <b>M. Vono</b><sup class="star">*</sup>, D. Paulin<sup class="star">*</sup> and A. Doucet<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/1905.11937"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<a style="font-size:15px" href="https://xianblog.wordpress.com/2019/06/24/efficient-mcmc-sampling/"><i class="fas fa-fw fa-comments"></i> Xian's blog post</a>
   	</li>
@@ -146,3 +151,5 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 		<br/><br/>
   	</li>
 </ol>
+
+<sup class="star">*</sup>: indicates equal contribution
