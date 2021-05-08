@@ -125,7 +125,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
   		<li>
 	 	Sparse Bayesian binary logistic regression using the split-and-augmented Gibbs sampler<br> 
       	<b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
-      	<i style='color:#db6e00'>IEEE MLSP</i>, Aalborg, Denmark, 2018<br>
+      	<i style='color:#db6e00'>IEEE MLSP</i>, Aalborg, Denmark, 2018 <span style='color:#B22222'>[Finalist for the Best Student Paper Award]</span><br> 
 		<a style="font-size:15px" href="../files/papers/2018_MLSP_Vono.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://ieeexplore.ieee.org/document/8516963"><i class="ai ai-doi"></i> doi</a> &emsp;
 		<a style="font-size:15px" href="../files/bib/2018_MLSP_Vono.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> &emsp;
