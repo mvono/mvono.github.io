@@ -17,11 +17,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
-	 	DG-LMC: a turn-key and scalable synchronous distributed MCMC algorithm via Langevin Monte Carlo within Gibbs<br>
-	    V. Plassier<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, A. Durmus and E. Moulines<br>
-	    <br/>
-  	</li>
-	<li>
 	 	High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm<br>
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2010.01510"><i class="ai ai-arxiv"></i> arXiv</a>
@@ -92,6 +87,12 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 ## International conference papers 
 
 <ol reversed>
+	<li>
+	 	DG-LMC: a turn-key and scalable synchronous distributed MCMC algorithm via Langevin Monte Carlo within Gibbs<br>
+	    V. Plassier<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, A. Durmus and E. Moulines<br>
+	    <i style='color:#db6e00'>ICML</i>, Online, 2021 <i style='color:#B22222'>[Long talk, top 14% of accepted papers]</i>
+	    <br/>
+  	</li>
 	<li>
 	 	A fully Bayesian approach for inferring physical properties with credibility intervals from noisy astronomical data<br>
 	    <b>M. Vono</b> et al.<br>
