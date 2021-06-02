@@ -26,7 +26,7 @@ My recent works focused on deriving a broad [approximate statistical framework](
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
-<i class="fa fa-fw fa-newspaper"></i> **2021/06** New preprint on Bayesian federated learning! 
+<i class="fa fa-fw fa-newspaper"></i> **2021/06** New preprint on Bayesian federated learning!                            
 <i class="fa fa-fw fa-newspaper"></i> **2021/05** 1 paper accepted at ICML 2021 (long talk, top 14% of accepted papers).  
 <i class="fa fa-fw fa-landmark"></i> **2020/11** I've joined the [Lagrange center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of Huawei and will work with Eric Moulines.  
 <i class="fa fa-fw fa-newspaper"></i> **2020/10** New [preprint](https://arxiv.org/abs/2010.01510) on high-dimensional Gaussian sampling.   
