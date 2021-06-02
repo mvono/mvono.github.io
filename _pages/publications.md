@@ -17,6 +17,12 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
+	 	QLSD: Quantised Langevin stochastic dynamics for Bayesian federated learning<br>
+	    <b>M. Vono</b>, V. Plassier, A. Durmus, A. Dieuleveut and E. Moulines<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/"><i class="ai ai-arxiv"></i> arXiv</a>
+		<br/><br/>
+  	</li>
+	<li>
 	 	High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm<br>
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2010.01510"><i class="ai ai-arxiv"></i> arXiv</a>

@@ -26,9 +26,7 @@ My recent works focused on deriving a broad [approximate statistical framework](
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
-<i class="fa fa-fw fa-newspaper"></i> **2021/05** 1 paper accepted at ICML 2021 (long talk, top 14% of accepted papers).       
+<i class="fa fa-fw fa-newspaper"></i> **2021/06** New preprint on Bayesian federated learning! 
+<i class="fa fa-fw fa-newspaper"></i> **2021/05** 1 paper accepted at ICML 2021 (long talk, top 14% of accepted papers).
 <i class="fa fa-fw fa-landmark"></i> **2020/11** I've joined the [Lagrange center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of Huawei and will work with Eric Moulines.  
-<i class="fa fa-fw fa-newspaper"></i> **2020/10** New [preprint](https://arxiv.org/abs/2010.01510) on high-dimensional Gaussian sampling.  
-<i class="fa fa-fw fa-user-graduate"></i> **2020/10** My Ph.D. defense is scheduled on October 7, 2020.  
-<i class="fa fa-fw fa-newspaper"></i> **2020/09** [Paper](https://arxiv.org/abs/1902.05754) accepted in *Journal of Computational and Graphical Statistics*.  
-<i class="fa fa-fw fa-newspaper"></i> **2020/08** Revision of our [paper](https://arxiv.org/abs/1905.11937) on the theoretical analysis of the [Split Gibbs Sampler](https://ieeexplore.ieee.org/document/8625467/").  
+<i class="fa fa-fw fa-newspaper"></i> **2020/10** New [preprint](https://arxiv.org/abs/2010.01510) on high-dimensional Gaussian sampling.   
