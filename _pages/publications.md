@@ -19,7 +19,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	 	QLSD: Quantised Langevin stochastic dynamics for Bayesian federated learning<br>
 	    <b>M. Vono</b>, V. Plassier, A. Durmus, A. Dieuleveut and E. Moulines<br>
-		<a style="font-size:15px" href="https://arxiv.org/abs/"><i class="ai ai-arxiv"></i> arXiv</a>
+		<a style="font-size:15px" href="https://arxiv.org/abs/2106.00797"><i class="ai ai-arxiv"></i> arXiv</a>
 		<br/><br/>
   	</li>
 	<li>
