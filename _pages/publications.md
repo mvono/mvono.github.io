@@ -97,6 +97,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	 	DG-LMC: a turn-key and scalable synchronous distributed MCMC algorithm via Langevin Monte Carlo within Gibbs<br>
 	    V. Plassier<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, A. Durmus<sup class="star">*</sup> and E. Moulines<br>
 	    <i style='color:#db6e00'>ICML</i>, Online, 2021 <span style='color:#B22222'>[Long talk, top 14% of accepted papers]</span><br>
+	    <a style="font-size:15px" href="https://arxiv.org/abs/2106.06300"><i class="ai ai-arxiv"></i> arXiv</a> &emsp; 
 	    <a style="font-size:15px" href="../files/papers/2021_ICML_DGLMC.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="../files/bib/2021_ICML_DGLMC.bib"><i class="fas fa-fw fa-book"></i> bibtex</a>
 	    <br/><br/>
