@@ -7,6 +7,15 @@ author_profile: true
 
 <table width="100%">
     <tr>
+        <td>2021/06</td>
+        <td>
+            Invited talk, Workshop on large scale simulation and high-dimensional sampling, organized by Huawei, online<br/>
+            <span>
+            "DG-LMC: A turn-key and scalable synchronous distributed MCMC algorithm via Langevin Monte Carlo within Gibbs"
+            </span>
+        </td>
+    </tr>
+    <tr>
         <td>2020/12</td>
         <td>
             Seminar, <a href="https://s3-seminar.github.io/">S<sup>3</sup> Seminar - The Paris-Saclay Signal Seminar</a>, CentraleSupelec<br/>
