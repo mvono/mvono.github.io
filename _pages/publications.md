@@ -99,7 +99,8 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	    <i style='color:#db6e00'>ICML</i>, Online, 2021 <span style='color:#B22222'>[Long talk, top 14% of accepted papers]</span><br>
 	    <a style="font-size:15px" href="https://arxiv.org/abs/2106.06300"><i class="ai ai-arxiv"></i> arXiv</a> &emsp; 
 	    <a style="font-size:15px" href="../files/papers/2021_ICML_DGLMC.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
-		<a style="font-size:15px" href="../files/bib/2021_ICML_DGLMC.bib"><i class="fas fa-fw fa-book"></i> bibtex</a>
+		<a style="font-size:15px" href="../files/bib/2021_ICML_DGLMC.bib"><i class="fas fa-fw fa-book"></i> bibtex</a> &emsp;
+		<a style="font-size:15px" href="https://github.com/mvono/2021-ICML-DGLMC"><i class="fab fa-fw fa-github"></i> code</a>
 	    <br/><br/>
   	</li>
 	<li>
