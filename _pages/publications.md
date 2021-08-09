@@ -23,12 +23,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 		<br/><br/>
   	</li>
 	<li>
-	 	High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm<br>
-	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
-		<a style="font-size:15px" href="https://arxiv.org/abs/2010.01510"><i class="ai ai-arxiv"></i> arXiv</a>
-		<br/><br/>
-  	</li>
-	<li>
 	  	Efficient MCMC sampling with dimension-free convergence rate using ADMM-type splitting<br>
 	    <b>M. Vono</b><sup class="star">*</sup>, D. Paulin<sup class="star">*</sup> and A. Doucet<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/1905.11937"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
@@ -40,6 +34,13 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 ## Journal papers
 
 <ol reversed>
+	<li>
+	 	High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm<br>
+	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
+	    <i style='color:#db6e00'>SIAM Review [Survey and Review section]</i>, to appear<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/2010.01510"><i class="ai ai-arxiv"></i> arXiv</a>
+		<br/><br/>
+  	</li>
 	<li>
 	 	Asymptotically exact data augmentation: models, properties and algorithms<br>
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
