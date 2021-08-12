@@ -37,7 +37,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	 	High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm<br>
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
-	    <i style='color:#db6e00'>SIAM Review [Survey and Review section]</i>, to appear<br>
+	    <i style='color:#db6e00'>SIAM Review</i>, to appear<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2010.01510"><i class="ai ai-arxiv"></i> arXiv</a>
 		<br/><br/>
   	</li>

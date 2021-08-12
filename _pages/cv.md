@@ -13,6 +13,10 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 * M.Eng. in data sciences, Ecole Centrale de Lille, 2017
 
 ## Work experience
+* 2020-current: Research associate at Lagrange Mathematics and Computing Research Center, Huawei<br/>
+<i class="archive__item-excerpt" itemprop="description">
+  Bayesian statistics, federated learning, generative modelling 
+</i>
 * 2018-2019: Data science consultant at [Intermarché Alimentaire International](https://www.mousquetaires.com/en/our-store-brands/food/intermarche/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
   Data strategy 
@@ -27,7 +31,8 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 </i>
   
 ## Community involvement 
-* Reviewer for ICASSP, MLSP, Digital Signal Processing, and Journal of Machine Learning Research
+* Reviewer for ICASSP, ICML, MLSP and NeurIPS conferences
+* Reviewer for Digital Signal Processing and Journal of Machine Learning Research
 
 ## Press release
 * [Machine learning: a breakthrough in the study of stellar nurseries](https://www.cnrs.fr/en/machine-learning-breakthrough-study-stellar-nurseries)
