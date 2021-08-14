@@ -7,6 +7,15 @@ author_profile: true
 
 <table width="100%">
     <tr>
+        <td>2021/08</td>
+        <td>
+            Invited talk, <a href="https://mas2020.sciencesconf.org/"> Journées MAS 2020</a>, organized by Institut Denis Poisson (UMR CNRS Orléans-Tours), online<br/>
+            <span>
+            "Asymptotically exact data augmentation : models, algorithms and theory"
+            </span>
+        </td>
+    </tr>
+    <tr>
         <td>2021/06</td>
         <td>
             Invited talk, Workshop on large scale simulation and high-dimensional sampling, organized by Huawei, online<br/>
