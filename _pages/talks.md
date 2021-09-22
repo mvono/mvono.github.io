@@ -7,6 +7,24 @@ author_profile: true
 
 <table width="100%">
     <tr>
+        <td>2022/03</td>
+        <td>
+            Invited talk, <a href="https://conferences.cirm-math.fr/2389.html"> SIAM Conference on Imaging Science</a>, Mini symposium on "Sparse Bayesian learning for image reconstruction with uncertainty quantification", online<br/>
+            <span>
+            "Asymptotically exact data augmentation: models, algorithms and applications to image processing"
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td>2021/09</td>
+        <td>
+            Invited talk, <a href="https://conferences.cirm-math.fr/2389.html"> On Future Synergies for Stochastic and Learning Algorithms</a>, CIRM, Marseille, France<br/>
+            <span>
+            "Bayesian federated learning"
+            </span>
+        </td>
+    </tr>
+    <tr>
         <td>2021/08</td>
         <td>
             Invited talk, <a href="https://mas2020.sciencesconf.org/"> Journées MAS 2020</a>, organized by Institut Denis Poisson (UMR CNRS Orléans-Tours), online<br/>
