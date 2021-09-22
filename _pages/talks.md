@@ -9,7 +9,7 @@ author_profile: true
     <tr>
         <td>2022/03</td>
         <td>
-            Invited talk, <a href="https://conferences.cirm-math.fr/2389.html"> SIAM Conference on Imaging Science</a>, Mini symposium on "Sparse Bayesian learning for image reconstruction with uncertainty quantification", online<br/>
+            Invited talk, <a href="https://www.siam.org/conferences/cm/conference/is22"> SIAM Conference on Imaging Science</a>, Mini symposium on "Sparse Bayesian learning for image reconstruction with uncertainty quantification", online<br/>
             <span>
             "Asymptotically exact data augmentation: models, algorithms and applications to image processing"
             </span>
