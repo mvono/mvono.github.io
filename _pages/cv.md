@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or [long](../files/cv/CV_long_VONO.pdf) pdf version of my CV (updated on August 24, 2021).
+For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or [long](../files/cv/CV_long_VONO.pdf) pdf version of my CV (updated on September 28, 2021).
 
 ## Education
 * Ph.D. in statistics, University of Toulouse, 2020
@@ -31,8 +31,9 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 </i>
   
 ## Community involvement 
-* Reviewer for ICASSP, ICML, MLSP and NeurIPS conferences
-* Reviewer for Digital Signal Processing and Journal of Machine Learning Research
+* Reviewer for AISTATS (2022), ICASSP (2019, 2020), ICML (2021), MLSP (2019, 2020) and NeurIPS (2021) conferences
+* Reviewer for Digital Signal Processing, IEEE Transactions on Signal Processing and Journal of Machine Learning Research
 
 ## Press release
+* [Reportage : Les coulisses du géant Huawei](https://www.prismashop.fr/vn/les-archives-de-management/VNMAN298.html)
 * [Machine learning: a breakthrough in the study of stellar nurseries](https://www.cnrs.fr/en/machine-learning-breakthrough-study-stellar-nurseries)
