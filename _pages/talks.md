@@ -25,6 +25,15 @@ author_profile: true
         </td>
     </tr>
     <tr>
+        <td>2021/11</td>
+        <td>
+            Seminar, SIMPAS Seminar, CMAP, Ecole Polytechnique, Paris, France<br/>
+            <span>
+            "Bayesian federated learning"
+            </span>
+        </td>
+    </tr>
+    <tr>
         <td>2021/09</td>
         <td>
             Invited talk, <a href="https://conferences.cirm-math.fr/2389.html"> On Future Synergies for Stochastic and Learning Algorithms</a>, CIRM, Marseille, France<br/>

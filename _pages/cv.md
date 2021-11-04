@@ -32,7 +32,7 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
   
 ## Community involvement 
 * Reviewer for AISTATS (2022), ICASSP (2019, 2020), ICML (2021), MLSP (2019, 2020) and NeurIPS (2021) conferences
-* Reviewer for Digital Signal Processing, IEEE Transactions on Signal Processing and Journal of Machine Learning Research
+* Reviewer for Digital Signal Processing, IEEE Transactions on Signal Processing, Statistics and Probability Letters and Journal of Machine Learning Research
 
 ## Press release
 * [Reportage : Les coulisses du géant Huawei](https://www.prismashop.fr/vn/les-archives-de-management/VNMAN298.html)

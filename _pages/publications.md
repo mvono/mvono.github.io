@@ -22,18 +22,20 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 		<a style="font-size:15px" href="https://arxiv.org/abs/2106.00797"><i class="ai ai-arxiv"></i> arXiv</a>
 		<br/><br/>
   	</li>
-	<li>
-	  	Efficient MCMC sampling with dimension-free convergence rate using ADMM-type splitting<br>
-	    <b>M. Vono</b><sup class="star">*</sup>, D. Paulin<sup class="star">*</sup> and A. Doucet<br>
-		<a style="font-size:15px" href="https://arxiv.org/abs/1905.11937"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
-		<a style="font-size:15px" href="https://xianblog.wordpress.com/2019/06/24/efficient-mcmc-sampling/"><i class="fas fa-fw fa-comments"></i> Xian's blog post</a>
-  	</li>
 </ol> 
 
 
 ## Journal papers
 
 <ol reversed>
+	<li>
+	  	Efficient MCMC sampling with dimension-free convergence rate using ADMM-type splitting<br>
+	    <b>M. Vono</b><sup class="star">*</sup>, D. Paulin<sup class="star">*</sup> and A. Doucet<br>
+	    <i style='color:#db6e00'>Journal of Machine Learning Research</i>, to appear<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/1905.11937"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<a style="font-size:15px" href="https://xianblog.wordpress.com/2019/06/24/efficient-mcmc-sampling/"><i class="fas fa-fw fa-comments"></i> Xian's blog post</a>
+		<br/><br/>
+  	</li>
 	<li>
 	 	High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm<br>
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>

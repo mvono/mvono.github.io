@@ -19,13 +19,15 @@ I am affiliated to the [ORION-B project](https://www.iram.fr/~pety/ORION-B/) whi
 ## Research interests
 My research interests lie in Bayesian modelling, the development of efficient computational methods for inferring unknown objects in complex problems and their applications to signal/image processing and machine learning.
 
-My recent works focused on deriving a broad [approximate statistical framework](https://doi.org/10.1080/10618600.2020.1826954) and associated [Monte Carlo sampling](https://arxiv.org/abs/1905.11937) approaches by taking inspiration from the [variable splitting](https://doi.org/10.1109/TSP.2019.2894825) method in optimisation (e.g., used by quadratic penalty approaches).
+I am currently working on distributed/[federated Bayesian approaches](https://arxiv.org/abs/2106.00797) and privacy-preserving machine learning.
+My Ph.D. works focused on deriving a broad [approximate statistical framework](https://doi.org/10.1080/10618600.2020.1826954) and associated [Monte Carlo sampling](https://arxiv.org/abs/1905.11937) approaches by taking inspiration from the [variable splitting](https://doi.org/10.1109/TSP.2019.2894825) method in optimisation (e.g., used by quadratic penalty approaches).
 
 ## Distinctions
 - [Prix Léopold Escande, 2020](https://www.inp-toulouse.fr/fr/toulouse-inp/actualites/prix-leopold-escande-2020.html)
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
+<i class="fa fa-fw fa-newspaper"></i> **2021/11** 1 [paper](https://arxiv.org/abs/1905.11937) accepted for publication in Journal of Machine Learning Research!  
 <i class="fa fa-fw fa-newspaper"></i> **2021/08** Our review [paper](https://arxiv.org/abs/2010.01510) on high-dimensional Gaussian sampling has been accepted for publication in SIAM Review!     
 <i class="fa fa-fw fa-newspaper"></i> **2021/06** New [preprint](https://arxiv.org/abs/2106.00797) on Bayesian federated learning!                            
 <i class="fa fa-fw fa-newspaper"></i> **2021/05** 1 paper accepted at ICML 2021 (long talk, top 14% of accepted papers).  
