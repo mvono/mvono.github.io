@@ -27,6 +27,24 @@ author_profile: true
     <tr>
         <td>2021/11</td>
         <td>
+            Invited talk, Workshop on large scale simulation and high-dimensional sampling, organized by Huawei, online<br/>
+            <span>
+            "High-dimensional Gaussian sampling: a review and a unifying approach based on a stochastic proximal point algorithm"
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td>2021/11</td>
+        <td>
+            Exceptional Seminar, Mohamed bin Zayed University of Artificial Intelligence visit, Ecole Polytechnique, Paris, France<br/>
+            <span>
+            "DG-LMC: A turn-key and scalable synchronous distributed MCMC algorithm via Langevin Monte Carlo within Gibbs"
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td>2021/11</td>
+        <td>
             Seminar, SIMPAS Seminar, CMAP, Ecole Polytechnique, Paris, France<br/>
             <span>
             "Bayesian federated learning"
