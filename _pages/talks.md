@@ -16,6 +16,15 @@ author_profile: true
         </td>
     </tr>
     <tr>
+        <td>2022/01</td>
+        <td>
+            Invited talk, <a href="https://www.tii.ae/seminar/ai-seminar-series-dr-maxime-vono"> AI Seminar Series</a>, organized by Technology Innovation Institute, online<br/>
+            <span>
+            "Bayesian federated learning"
+            </span>
+        </td>
+    </tr>
+    <tr>
         <td>2021/11</td>
         <td>
             Seminar, <a href="http://sc.enseeiht.fr/agenda.html"> Signal & Communications Seminar</a>, IRIT, Toulouse, France<br/>
