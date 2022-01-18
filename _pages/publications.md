@@ -15,16 +15,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 ## Preprints
 
-<ol reversed>
-	<li>
-	 	QLSD: Quantised Langevin stochastic dynamics for Bayesian federated learning<br>
-	    <b>M. Vono</b>, V. Plassier, A. Durmus, A. Dieuleveut and E. Moulines<br>
-		<a style="font-size:15px" href="https://arxiv.org/abs/2106.00797"><i class="ai ai-arxiv"></i> arXiv</a>
-		<br/><br/>
-  	</li>
-</ol> 
-
-
 ## Journal papers
 
 <ol reversed>
@@ -97,6 +87,13 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 ## International conference papers 
 
 <ol reversed>
+	<li>
+	 	QLSD: Quantised Langevin stochastic dynamics for Bayesian federated learning<br>
+	    <b>M. Vono</b>, V. Plassier, A. Durmus, A. Dieuleveut and E. Moulines<br>
+	    <i style='color:#db6e00'>AISTAT</i>, Online, 2022<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/2106.00797"><i class="ai ai-arxiv"></i> arXiv</a>
+		<br/><br/>
+  	</li>
 	<li>
 	 	DG-LMC: a turn-key and scalable synchronous distributed MCMC algorithm via Langevin Monte Carlo within Gibbs<br>
 	    V. Plassier<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, A. Durmus<sup class="star">*</sup> and E. Moulines<br>

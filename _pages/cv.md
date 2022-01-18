@@ -13,19 +13,23 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 * M.Eng. in data sciences, Ecole Centrale de Lille, 2017
 
 ## Work experience
-* 2020 - current: Research associate at Lagrange Mathematics and Computing Research Center, Huawei<br/>
+* 2022 - current: Senior Research Scientist at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
-  Bayesian statistics, federated learning, generative modelling 
+  Bayesian statistics, federated learning, privacy-preserving learning, recommendation systems
 </i>
-* 2018 - 2019: Data science consultant at [Intermarché Alimentaire International](https://www.mousquetaires.com/en/our-store-brands/food/intermarche/)<br/>
+* 2020 - 2021: Research Scientist at Lagrange Mathematics and Computing Research Center, Huawei<br/>
+<i class="archive__item-excerpt" itemprop="description">
+  Bayesian statistics, federated & distributed learning
+</i>
+* 2018 - 2019: Data Science Consultant at [Intermarché Alimentaire International](https://www.mousquetaires.com/en/our-store-brands/food/intermarche/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
   Data strategy 
 </i>
-* 2017: Data scientist intern at [Vekia](https://www.vekia.fr/en/homepage/)<br/>
+* 2017: Data Scientist Intern at [Vekia](https://www.vekia.fr/en/homepage/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
   Sales forecasting and supply chain planning 
 </i> 
-* 2016 - 2017: Data scientist intern and operations research consultant at [Leroy Merlin France](https://www.leroymerlin.fr/)<br/>
+* 2016 - 2017: Data Scientist Intern and Operations Research Consultant at [Leroy Merlin France](https://www.leroymerlin.fr/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
   Dynamic pricing in clearance periods, pricing performance analyses and turnover forecasting  
 </i>
