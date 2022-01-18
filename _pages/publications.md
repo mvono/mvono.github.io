@@ -13,7 +13,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 <i style='color:#db6e00'>Ph.D. thesis</i>, Institut National Polytechnique de Toulouse, 2020<br>
 <a style="font-size:15px" href="../files/papers/2020_thesis_manuscript.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> 
 
-## Preprints
 
 ## Journal papers
 
@@ -90,7 +89,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	 	QLSD: Quantised Langevin stochastic dynamics for Bayesian federated learning<br>
 	    <b>M. Vono</b>, V. Plassier, A. Durmus, A. Dieuleveut and E. Moulines<br>
-	    <i style='color:#db6e00'>AISTAT</i>, Online, 2022<br>
+	    <i style='color:#db6e00'>AISTATS</i>, Online, 2022<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2106.00797"><i class="ai ai-arxiv"></i> arXiv</a>
 		<br/><br/>
   	</li>
