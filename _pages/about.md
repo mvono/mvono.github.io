@@ -30,7 +30,7 @@ My Ph.D. works focused on deriving a broad [approximate statistical framework](h
 
 ## News
 <i class="fa fa-fw fa-newspaper"></i> **2022/01** 1 [paper](https://arxiv.org/abs/2106.00797) accepted at AISTATS 2022!   
-<i class="fa fa-fw fa-landmark"></i> **2022/01** I've joined the [Criteo AI Lab](https://ailab.criteo.com/)! 
+<i class="fa fa-fw fa-landmark"></i> **2022/01** I've joined the [Criteo AI Lab](https://ailab.criteo.com/)!              
 <i class="fa fa-fw fa-newspaper"></i> **2021/11** 1 [paper](https://arxiv.org/abs/1905.11937) accepted for publication in Journal of Machine Learning Research!  
 <i class="fa fa-fw fa-newspaper"></i> **2021/08** Our review [paper](https://arxiv.org/abs/2010.01510) on high-dimensional Gaussian sampling has been accepted for publication in SIAM Review!     
 <i class="fa fa-fw fa-newspaper"></i> **2021/06** New [preprint](https://arxiv.org/abs/2106.00797) on Bayesian federated learning!                            
