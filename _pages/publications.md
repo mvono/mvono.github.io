@@ -20,8 +20,9 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	  	Efficient MCMC sampling with dimension-free convergence rate using ADMM-type splitting<br>
 	    <b>M. Vono</b><sup class="star">*</sup>, D. Paulin<sup class="star">*</sup> and A. Doucet<br>
-	    <i style='color:#db6e00'>Journal of Machine Learning Research</i>, to appear<br>
+	    <i style='color:#db6e00'>Journal of Machine Learning Research</i>, vol. 23, no. 25, pp. 1-69, 2022<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/1905.11937"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<a style="font-size:15px" href="https://jmlr.org/papers/v23/20-357.html"><i class="ai ai-doi"></i> doi</a> &emsp;
 		<a style="font-size:15px" href="https://xianblog.wordpress.com/2019/06/24/efficient-mcmc-sampling/"><i class="fas fa-fw fa-comments"></i> Xian's blog post</a>
 		<br/><br/>
   	</li>
