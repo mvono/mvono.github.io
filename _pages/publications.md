@@ -31,6 +31,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	    <b>M. Vono</b>, N. Dobigeon and P. Chainais<br>
 	    <i style='color:#db6e00'>SIAM Review</i>, vol. 64, no. 1, pp. 3-56, 2022<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2010.01510"><i class="ai ai-arxiv"></i> arXiv</a> &emsp; 
+		<a style="font-size:15px" href="../files/papers/Vono_SIREV_2022.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
 		<a style="font-size:15px" href="https://doi.org/10.1137/20M1371026"><i class="ai ai-doi"></i> doi</a> &emsp;
 		<a style="font-size:15px" href="https://github.com/mvono/PyGauss"><i class="fab fa-fw fa-github"></i> code</a>
 		<br/><br/>
