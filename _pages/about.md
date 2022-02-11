@@ -24,7 +24,8 @@ My current research interests lie in Bayesian statistics, Monte Carlo methods, f
 During my journey at Huawei, I worked on [distributed](http://proceedings.mlr.press/v139/plassier21a.html)/[federated](https://arxiv.org/abs/2106.00797) Bayesian approaches and privacy-preserving machine learning.
 My Ph.D. works focused on deriving a broad [approximate statistical framework](https://doi.org/10.1080/10618600.2020.1826954) and associated [Monte Carlo sampling](https://arxiv.org/abs/1905.11937) approaches by taking inspiration from the [variable splitting](https://doi.org/10.1109/TSP.2019.2894825) method in optimisation (e.g., used by quadratic penalty approaches).
 
-## Distinctions
+## Awards & Distinctions
+- [Top Reviewer, AISTATS 2022](https://virtual.aistats.org/Conferences/2022/Reviewers)
 - [Prix Léopold Escande, 2020](https://www.inp-toulouse.fr/fr/toulouse-inp/actualites/prix-leopold-escande-2020.html)
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
