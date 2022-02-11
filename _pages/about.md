@@ -25,8 +25,8 @@ During my journey at Huawei, I worked on [distributed](http://proceedings.mlr.pr
 My Ph.D. works focused on deriving a broad [approximate statistical framework](https://doi.org/10.1080/10618600.2020.1826954) and associated [Monte Carlo sampling](https://arxiv.org/abs/1905.11937) approaches by taking inspiration from the [variable splitting](https://doi.org/10.1109/TSP.2019.2894825) method in optimisation (e.g., used by quadratic penalty approaches).
 
 ## Awards & Distinctions
-- [Top Reviewer, AISTATS 2022](https://virtual.aistats.org/Conferences/2022/Reviewers)
-- [Prix Léopold Escande, 2020](https://www.inp-toulouse.fr/fr/toulouse-inp/actualites/prix-leopold-escande-2020.html)
+- [Top Reviewer](https://virtual.aistats.org/Conferences/2022/Reviewers), AISTATS 2022
+- [Prix Léopold Escande](https://www.inp-toulouse.fr/fr/toulouse-inp/actualites/prix-leopold-escande-2020.html), 2020
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
