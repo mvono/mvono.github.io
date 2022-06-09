@@ -19,7 +19,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 <ol reversed>
 	<li>
 	  	FedPop: A Bayesian Approach for Personalised Federated Learning<br>
-	    <b>N. Kotelevskii</b><sup class="star">*</sup>, M. Vono<sup class="star">*</sup>, E. Moulines and A. Durmus<br>
+	    N. Kotelevskii<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, E. Moulines and A. Durmus<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2206.03611"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<br/><br/>
   	</li>
