@@ -14,6 +14,17 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 <a style="font-size:15px" href="../files/papers/2020_thesis_manuscript.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> 
 
 
+## Preprints
+
+<ol reversed>
+	<li>
+	  	FedPop: A Bayesian Approach for Personalised Federated Learning<br>
+	    <b>N. Kotelevskii</b><sup class="star">*</sup>, M. Vono<sup class="star">*</sup>, E. Moulines and A. Durmus<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/2206.03611"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<br/><br/>
+  	</li>
+ </ol>
+
 ## Journal papers
 
 <ol reversed>
