@@ -14,16 +14,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 <a style="font-size:15px" href="../files/papers/2020_thesis_manuscript.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> 
 
 
-## Preprints
-
-<ol reversed>
-	<li>
-	  	FedPop: A Bayesian Approach for Personalised Federated Learning<br>
-	    N. Kotelevskii<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, E. Moulines and A. Durmus<br>
-		<a style="font-size:15px" href="https://arxiv.org/abs/2206.03611"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
-		<br/><br/>
-  	</li>
- </ol>
 
 ## Journal papers
 
@@ -100,6 +90,13 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 ## International conference papers 
 
 <ol reversed>
+	<li>
+	  	FedPop: A Bayesian Approach for Personalised Federated Learning<br>
+	    N. Kotelevskii<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, E. Moulines and A. Durmus<br>
+	    <i style='color:#db6e00'>NeurIPS</i>, New Orleans, USA, 2022<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/2206.03611"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<br/><br/>
+  	</li>
 	<li>
 	 	QLSD: Quantised Langevin stochastic dynamics for Bayesian federated learning<br>
 	    <b>M. Vono</b>, V. Plassier, A. Durmus, A. Dieuleveut and E. Moulines<br>

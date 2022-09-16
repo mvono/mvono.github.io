@@ -30,6 +30,7 @@ My Ph.D. works focused on deriving a broad [approximate statistical framework](h
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
+<i class="fa fa-fw fa-newspaper"></i> **2022/09** 1 [paper](https://arxiv.org/abs/2206.03611) accepted at NeurIPS 2022!                                                                                                                  
 <i class="fa fa-fw fa-newspaper"></i> **2022/06** New [paper](https://arxiv.org/abs/2206.03611) on personalised federated learning!                     
 <i class="fa fa-fw fa-newspaper"></i> **2022/01** 1 [paper](https://arxiv.org/abs/2106.00797) accepted at AISTATS 2022!   
 <i class="fa fa-fw fa-landmark"></i> **2022/01** I've joined the [Criteo AI Lab](https://ailab.criteo.com/)!              
