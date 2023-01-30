@@ -20,7 +20,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 <ol reversed>
 	<li>
 	  	Personalised Federated Learning On Heterogeneous Feature Spaces<br>
-	    <b>A. Rakotomamonjy</b><sup class="star">*</sup>, M. Vono<sup class="star">*</sup>, H. Jesse Medina Ruiz and L. Ralaivola<br>
+	    A. Rakotomamonjy<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, H. Jesse Medina Ruiz and L. Ralaivola<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2301.11447"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<br/><br/>
   	</li>
