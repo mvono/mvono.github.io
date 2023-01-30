@@ -16,7 +16,7 @@ I obtained my Ph.D. in statistics on October 7, 2020 from the University of Toul
 
 In spring 2019, I was a research visiting scholar at the [Department of Statistics](http://www.stats.ox.ac.uk/) of the University of Oxford working with [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/).
 
-I am affiliated to the [ORION-B project](https://www.iram.fr/~pety/ORION-B/) which gathers astrophysicists, data scientists and statisticians in order to better understand the formation of stars in our universe.
+I have been affiliated to the [ORION-B project](https://www.iram.fr/~pety/ORION-B/) which gathers astrophysicists, data scientists and statisticians in order to better understand the formation of stars in our universe.
 
 ## Research interests
 My current research interests lie in Bayesian statistics, Monte Carlo methods, federated learning, privacy-preserving learning and recommendation systems.
@@ -30,8 +30,6 @@ My Ph.D. works focused on deriving a broad [approximate statistical framework](h
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
-<i class="fa fa-fw fa-newspaper"></i> **2022/09** 1 [paper](https://arxiv.org/abs/2206.03611) accepted at NeurIPS 2022!                                                                                                                  
-<i class="fa fa-fw fa-newspaper"></i> **2022/06** New [paper](https://arxiv.org/abs/2206.03611) on personalised federated learning!                     
-<i class="fa fa-fw fa-newspaper"></i> **2022/01** 1 [paper](https://arxiv.org/abs/2106.00797) accepted at AISTATS 2022!   
-<i class="fa fa-fw fa-landmark"></i> **2022/01** I've joined the [Criteo AI Lab](https://ailab.criteo.com/)!              
-<i class="fa fa-fw fa-newspaper"></i> **2021/11** 1 [paper](https://arxiv.org/abs/1905.11937) accepted for publication in Journal of Machine Learning Research!   
+<i class="fa fa-fw fa-newspaper"></i> **2023/01** New [paper](http://arxiv.org/abs/2301.11447) on federated learning with heterogeneous feature spaces!                                                                                              
+<i class="fa fa-fw fa-newspaper"></i> **2022/09** 1 [paper](https://arxiv.org/abs/2206.03611) accepted at NeurIPS 2022!   
+<i class="fa fa-fw fa-newspaper"></i> **2022/01** 1 [paper](https://arxiv.org/abs/2106.00797) accepted at AISTATS 2022!    
