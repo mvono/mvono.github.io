@@ -19,6 +19,11 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
+	  	DU-Shapley: A Shapley Value Proxy for Efficient Dataset Valuation<br>
+	    F. Garrido-Lucero<sup class="star">*</sup>, B. Heymann<sup class="star">*</sup><b>, M. Vono</b><sup class="star">*</sup>, P. Loiseau and V. Perchet<br>
+		<br/><br/>
+  	</li>
+	<li>
 	  	Personalised Federated Learning On Heterogeneous Feature Spaces<br>
 	    A. Rakotomamonjy<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, H. Jesse Medina Ruiz and L. Ralaivola<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2301.11447"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;

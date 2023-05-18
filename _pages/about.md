@@ -19,7 +19,7 @@ In spring 2019, I was a research visiting scholar at the [Department of Statisti
 I have been affiliated to the [ORION-B project](https://www.iram.fr/~pety/ORION-B/) which gathers astrophysicists, data scientists and statisticians in order to better understand the formation of stars in our universe.
 
 ## Research interests
-My current research interests lie in Bayesian statistics, Monte Carlo methods, federated learning, privacy-preserving learning and recommendation systems.
+My current research interests lie in federated learning, privacy-preserving learning and data valuation.
 
 During my journey at Huawei, I worked on [distributed](http://proceedings.mlr.press/v139/plassier21a.html)/[federated](https://arxiv.org/abs/2106.00797) Bayesian approaches and privacy-preserving machine learning.
 My Ph.D. works focused on deriving a broad [approximate statistical framework](https://doi.org/10.1080/10618600.2020.1826954) and associated [Monte Carlo sampling](https://arxiv.org/abs/1905.11937) approaches by taking inspiration from the [variable splitting](https://doi.org/10.1109/TSP.2019.2894825) method in optimisation (e.g., used by quadratic penalty approaches).
@@ -30,6 +30,7 @@ My Ph.D. works focused on deriving a broad [approximate statistical framework](h
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
+<i class="fa fa-fw fa-newspaper"></i> **2023/05** New paper on dataset valuation using novel Shapley value estimators!     
 <i class="fa fa-fw fa-newspaper"></i> **2023/01** New [paper](http://arxiv.org/abs/2301.11447) on federated learning with heterogeneous feature spaces!                                                                                              
 <i class="fa fa-fw fa-newspaper"></i> **2022/09** 1 [paper](https://arxiv.org/abs/2206.03611) accepted at NeurIPS 2022!   
 <i class="fa fa-fw fa-newspaper"></i> **2022/01** 1 [paper](https://arxiv.org/abs/2106.00797) accepted at AISTATS 2022!    
