@@ -21,6 +21,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	  	DU-Shapley: A Shapley Value Proxy for Efficient Dataset Valuation<br>
 	    F. Garrido-Lucero<sup class="star">*</sup>, B. Heymann<sup class="star">*</sup><b>, M. Vono</b><sup class="star">*</sup>, P. Loiseau and V. Perchet<br>
+	    <a style="font-size:15px" href="https://arxiv.org/abs/2306.02071"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<br/><br/>
   	</li>
 	<li>
