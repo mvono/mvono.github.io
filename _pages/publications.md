@@ -19,15 +19,15 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
-	  	DU-Shapley: A Shapley Value Proxy for Efficient Dataset Valuation<br>
-	    F. Garrido-Lucero<sup class="star">*</sup>, B. Heymann<sup class="star">*</sup><b>, M. Vono</b><sup class="star">*</sup>, P. Loiseau and V. Perchet<br>
-	    <a style="font-size:15px" href="https://arxiv.org/abs/2306.02071"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+	  	Position Paper: Open Research Challenges for Private Advertising Systems under Local Differential Privacy<br>
+	    M. Tullii, S. Gaucher, H. Richard, E. Diemert, V. Perchet, A. Rakotomamonjy, C. Calauzènes and <b>Maxime Vono</b><br>
+	    <a style="font-size:15px" href="https://hal.science/hal-04438186/document"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<br/><br/>
   	</li>
 	<li>
-	  	Personalised Federated Learning On Heterogeneous Feature Spaces<br>
-	    A. Rakotomamonjy<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, H. Jesse Medina Ruiz and L. Ralaivola<br>
-		<a style="font-size:15px" href="https://arxiv.org/abs/2301.11447"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+	  	DU-Shapley: A Shapley Value Proxy for Efficient Dataset Valuation<br>
+	    F. Garrido-Lucero<sup class="star">*</sup>, B. Heymann<sup class="star">*</sup>, <b> M. Vono</b><sup class="star">*</sup>, P. Loiseau and V. Perchet<br>
+	    <a style="font-size:15px" href="https://arxiv.org/abs/2306.02071"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<br/><br/>
   	</li>
  </ol>
@@ -36,6 +36,23 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 ## Journal papers
 
 <ol reversed>
+	<li>
+	  	Personalised Federated Learning On Heterogeneous Feature Spaces<br>
+	    A. Rakotomamonjy, <b>M. Vono</b>, H. Jesse Medina Ruiz and L. Ralaivola<br>
+	    <i style='color:#db6e00'>Transactions on Machine Learning Research</i>, to appear, 2024<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/2301.11447"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<a style="font-size:15px" href="https://openreview.net/forum?id=uCZJaqJchs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)"><i class="ai ai-doi"></i> doi</a>
+		<br/><br/>
+  	</li>
+  	<li>
+	  	Gas kinematics around filamentary structures in the Orion B cloud<br>
+	    M. Gaudel et al.<br>
+	    <i style='color:#db6e00'>Astronomy & Astrophysics</i>, vol. 670, no. A59, February 2023<br>
+		<a style="font-size:15px" href="https://arxiv.org/abs/2211.14350"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<a style="font-size:15px" href="https://www.aanda.org/articles/aa/pdf/2023/02/aa42109-21.pdf"><i class="fa fa-fw fa-newspaper"></i> pdf</a> &emsp;
+		<a style="font-size:15px" href="https://doi.org/10.1051/0004-6361/202142109"><i class="ai ai-doi"></i> doi</a>
+		<br/><br/>
+  	</li>
 	<li>
 	  	Efficient MCMC sampling with dimension-free convergence rate using ADMM-type splitting<br>
 	    <b>M. Vono</b><sup class="star">*</sup>, D. Paulin<sup class="star">*</sup> and A. Doucet<br>
@@ -113,6 +130,13 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	    N. Kotelevskii<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, E. Moulines and A. Durmus<br>
 	    <i style='color:#db6e00'>NeurIPS</i>, New Orleans, USA, 2022<br>
 		<a style="font-size:15px" href="https://arxiv.org/abs/2206.03611"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<br/><br/>
+  	</li>
+  	<li>
+	  	Mixture of noises and sampling of non-log-concave posterior distributions<br>
+	    P. Palud et al.<br>
+	    <i style='color:#db6e00'>EUSIPCO</i>, Belgrade, Serbia, 2022<br>
+		<a style="font-size:15px" href="https://hal.science/hal-03953035/document"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<br/><br/>
   	</li>
 	<li>
