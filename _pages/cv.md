@@ -13,7 +13,11 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 * M.Eng. in data sciences, Ecole Centrale de Lille, 2017
 
 ## Work experience
-* 2022 - current: Senior Research Scientist at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
+* 2024 - now: Staff Research Scientist at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
+<i class="archive__item-excerpt" itemprop="description">
+  Bayesian statistics, federated learning, privacy-preserving learning, recommendation systems
+</i>
+* 2022 - 2023: Senior Research Scientist at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
   Bayesian statistics, federated learning, privacy-preserving learning, recommendation systems
 </i>
