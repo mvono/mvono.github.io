@@ -30,8 +30,8 @@ My Ph.D. works focused on deriving a broad [approximate statistical framework](h
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
-<i class="fa fa-fw fa-newspaper"></i> **2024/03** 1 [paper](http://arxiv.org/abs/2301.11447) accepted at TMLR!
-<i class="fa fa-fw fa-newspaper"></i> **2024/02** New position [paper](https://hal.science/hal-04438186/document) on local differential privacy \& computational advertising!
+<i class="fa fa-fw fa-newspaper"></i> **2024/03** 1 [paper](http://arxiv.org/abs/2301.11447) accepted at TMLR!                  
+<i class="fa fa-fw fa-newspaper"></i> **2024/02** New position [paper](https://hal.science/hal-04438186/document) on local differential privacy \& computational advertising!                                                                   
 <i class="fa fa-fw fa-newspaper"></i> **2023/05** New paper on dataset valuation using novel Shapley value estimators!                                                                                                 
 <i class="fa fa-fw fa-newspaper"></i> **2022/09** 1 [paper](https://arxiv.org/abs/2206.03611) accepted at NeurIPS 2022!   
 <i class="fa fa-fw fa-newspaper"></i> **2022/01** 1 [paper](https://arxiv.org/abs/2106.00797) accepted at AISTATS 2022!    
