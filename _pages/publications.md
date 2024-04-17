@@ -20,7 +20,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 <ol reversed>
 	<li>
 	  	Position Paper: Open Research Challenges for Private Advertising Systems under Local Differential Privacy<br>
-	    M. Tullii, S. Gaucher, H. Richard, E. Diemert, V. Perchet, A. Rakotomamonjy, C. Calauzènes and <b>Maxime Vono</b><br>
+	    M. Tullii, S. Gaucher, H. Richard, E. Diemert, V. Perchet, A. Rakotomamonjy, C. Calauzènes and <b>M. Vono</b><br>
 	    <a style="font-size:15px" href="https://hal.science/hal-04438186/document"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
 		<br/><br/>
   	</li>
