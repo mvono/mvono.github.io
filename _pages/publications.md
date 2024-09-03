@@ -19,12 +19,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
-	  	Position Paper: Open Research Challenges for Private Advertising Systems under Local Differential Privacy<br>
-	    M. Tullii, S. Gaucher, H. Richard, E. Diemert, V. Perchet, A. Rakotomamonjy, C. Calauzènes and <b>M. Vono</b><br>
-	    <a style="font-size:15px" href="https://hal.science/hal-04438186/document"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
-		<br/><br/>
-  	</li>
-	<li>
 	  	DU-Shapley: A Shapley Value Proxy for Efficient Dataset Valuation<br>
 	    F. Garrido-Lucero<sup class="star">*</sup>, B. Heymann<sup class="star">*</sup>, <b> M. Vono</b><sup class="star">*</sup>, P. Loiseau and V. Perchet<br>
 	    <a style="font-size:15px" href="https://arxiv.org/abs/2306.02071"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
@@ -125,6 +119,13 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 ## International conference papers 
 
 <ol reversed>
+	<li>
+	  	Position Paper: Open Research Challenges for Private Advertising Systems under Local Differential Privacy<br>
+	    M. Tullii, S. Gaucher, H. Richard, E. Diemert, V. Perchet, A. Rakotomamonjy, C. Calauzènes and <b>M. Vono</b><br>
+	    <i style='color:#db6e00'>WISE</i>, Doha, Qatar, 2024<br>
+	    <a style="font-size:15px" href="https://hal.science/hal-04438186/document"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<br/><br/>
+  	</li>
 	<li>
 	  	FedPop: A Bayesian Approach for Personalised Federated Learning<br>
 	    N. Kotelevskii<sup class="star">*</sup>, <b>M. Vono</b><sup class="star">*</sup>, E. Moulines and A. Durmus<br>
