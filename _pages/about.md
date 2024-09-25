@@ -30,7 +30,6 @@ My Ph.D. works focused on deriving a broad [approximate statistical framework](h
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
-<i class="fa fa-fw fa-newspaper"></i> **2024/09** Our position [paper](https://hal.science/hal-04438186/document) on local differential privacy & computational advertising has been accepted for publication at WISE 2024!                           
-<i class="fa fa-fw fa-newspaper"></i> **2024/03** 1 [paper](http://arxiv.org/abs/2301.11447) accepted at TMLR!                  
-<i class="fa fa-fw fa-newspaper"></i> **2024/02** New position [paper](https://hal.science/hal-04438186/document) on local differential privacy & computational advertising!                                                                   
-<i class="fa fa-fw fa-newspaper"></i> **2023/05** New paper on dataset valuation using novel Shapley value estimators! 
+<i class="fa fa-fw fa-newspaper"></i> **2024/09** Our [paper](https://arxiv.org/abs/2306.02071) on dataset valuation using novel Shapley value estimators has been accepted at NeurIPS 2024!                                                        
+<i class="fa fa-fw fa-newspaper"></i> **2024/09** Our position [paper](https://hal.science/hal-04438186/document) on local differential privacy & computational advertising has been accepted at WISE 2024!                           
+<i class="fa fa-fw fa-newspaper"></i> **2024/03** 1 [paper](http://arxiv.org/abs/2301.11447) accepted at TMLR!               
