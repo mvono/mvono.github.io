@@ -15,11 +15,11 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 ## Work experience
 * Apr. 2024 - now: Staff Research Scientist at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
-  Bayesian statistics, federated learning, privacy-preserving learning, recommendation systems
+  privacy-preserving learning, bidding engines
 </i>
 * Jan. 2022 - Mar. 2024: Senior Research Scientist at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
-  Bayesian statistics, federated learning, privacy-preserving learning, recommendation systems
+  privacy-preserving learning, bidding engines
 </i>
 * Nov. 2020 - Jan. 2022: Research Scientist at Lagrange Mathematics and Computing Research Center, Huawei<br/>
 <i class="archive__item-excerpt" itemprop="description">
