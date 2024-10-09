@@ -43,5 +43,5 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 * Reviewer for Digital Signal Processing, IEEE Transactions on Signal Processing, Statistics and Probability Letters and Journal of Machine Learning Research
 
 ## Press release
-* [Reportage : Les coulisses du géant Huawei](https://www.prismashop.fr/vn/les-archives-de-management/VNMAN298.html)
+* [Reportage : Les coulisses du géant Huawei](https://pages.go-entrepreneurs.com/files/docs/MAGAZINES/management_GOM.pdf#page=43)
 * [Machine learning: a breakthrough in the study of stellar nurseries](https://www.cnrs.fr/en/machine-learning-breakthrough-study-stellar-nurseries)
