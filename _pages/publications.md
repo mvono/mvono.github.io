@@ -17,7 +17,13 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 ## Preprints
 
-None at the moment.
+<ol reversed>
+	<li>
+	  	Distribution-Aware Mean Estimation under User-level Local Differential Privacy<br>
+	    C. Pla, H. Richard and <b>M. Vono</b><br>
+		<br/><br/>
+  	</li>
+  </ol>
 
 
 ## Journal papers
