@@ -21,6 +21,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	  	Distribution-Aware Mean Estimation under User-level Local Differential Privacy<br>
 	    C. Pla, H. Richard and <b>M. Vono</b><br>
+	    <a style="font-size:15px" href="https://arxiv.org/abs/2410.09506"><i class="ai ai-arxiv"></i> arXiv</a>
 		<br/><br/>
   	</li>
   </ol>
