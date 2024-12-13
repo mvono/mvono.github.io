@@ -13,7 +13,11 @@ For more details, you can download a [1-page](../files/cv/CV_short_VONO.pdf) or 
 * M.Eng. in data sciences, Ecole Centrale de Lille, 2017
 
 ## Work experience
-* Apr. 2024 - now: Staff Research Scientist at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
+* Jan. 2025 - now: Staff Research Lead at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
+<i class="archive__item-excerpt" itemprop="description">
+  privacy-preserving learning, bidding engines
+</i>
+* Apr. 2024 - Dec. 2024: Staff Research Scientist at [Criteo AI Lab](https://ailab.criteo.com/)<br/>
 <i class="archive__item-excerpt" itemprop="description">
   privacy-preserving learning, bidding engines
 </i>
