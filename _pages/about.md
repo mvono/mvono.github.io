@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Staff Research Lead at the [Criteo AI Lab](https://ailab.criteo.com/) in Paris, managing a hybrid team of ML engineers and researchers. The team focus is on securing future-proof performance for Criteo bidding engine due to the loss of granular user signal.
+I am a Staff Research Lead at the [Criteo AI Lab](https://ailab.criteo.com/) in Paris, managing a hybrid team of ML engineers and researchers. The team focus is on securing future-proof performance for Criteo AI engines due to the loss of granular user signal. This mainly requires knowledge in privacy-preserving and cohort-based machine learning.
 
 Previously, I was a Research Scientist at the [Lagrange Mathematics and Computing Research Center](https://www.huawei.com/fr/news/fr/2020/centre-lagrange) of [Huawei](https://www.huawei.com/) working with [Alain Durmus](http://alain.perso.math.cnrs.fr/) and [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr).
 
