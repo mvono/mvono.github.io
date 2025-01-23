@@ -17,14 +17,14 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 ## Preprints
 
-<ol reversed>
+<!-- <ol reversed>
 	<li>
 	  	Distribution-Aware Mean Estimation under User-level Local Differential Privacy<br>
 	    C. Pla, H. Richard and <b>M. Vono</b><br>
 	    <a style="font-size:15px" href="https://arxiv.org/abs/2410.09506"><i class="ai ai-arxiv"></i> arXiv</a>
 		<br/><br/>
   	</li>
-  </ol>
+  </ol> -->
 
 
 ## Journal papers
@@ -119,6 +119,13 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 ## International conference papers 
 
 <ol reversed>
+	<li>
+	  	Distribution-Aware Mean Estimation under User-level Local Differential Privacy<br>
+	    C. Pla, H. Richard and <b>M. Vono</b><br>
+	    <i style='color:#db6e00'>AISTATS</i>, Phuket, Thailand, 2025<br>
+	    <a style="font-size:15px" href="https://arxiv.org/abs/2410.09506"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+		<br/><br/>
+  	</li>
 	<li>
 	  	DU-Shapley: A Shapley Value Proxy for Efficient Dataset Valuation<br>
 	    F. Garrido-Lucero<sup class="star">*</sup>, B. Heymann<sup class="star">*</sup>, <b> M. Vono</b><sup class="star">*</sup>, P. Loiseau and V. Perchet<br>
