@@ -21,6 +21,7 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	  On the Impact of the Utility in Semivalue-based Data Valuation<br>
 	    M. Tamine, B. Heymann, P. Loiseau and <b>M. Vono</b><br>
+		<br/><br/>
   	</li>
 	<li>
 	  Wasserstein Particle Flow for Estimating Labels from Label Proportions<br>
