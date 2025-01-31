@@ -17,14 +17,18 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 ## Preprints
 
-<!-- <ol reversed>
+<ol reversed>
 	<li>
-	  	Distribution-Aware Mean Estimation under User-level Local Differential Privacy<br>
-	    C. Pla, H. Richard and <b>M. Vono</b><br>
-	    <a style="font-size:15px" href="https://arxiv.org/abs/2410.09506"><i class="ai ai-arxiv"></i> arXiv</a>
+	  On the Impact of the Utility in Semivalue-based Data Valuation<br>
+	    M. Tamine, B. Heymann, P. Loiseau and <b>M. Vono</b><br>
 		<br/><br/>
   	</li>
-  </ol> -->
+	<li>
+	  Wasserstein Particle Flow for Estimating Labels from Label Proportions<br>
+	    A. Rakotomamonjy, L. Ralaivola and <b>M. Vono</b><br>
+		<br/><br/>
+  	</li>
+</ol>
 
 
 ## Journal papers
