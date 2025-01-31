@@ -25,7 +25,6 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 	<li>
 	  Wasserstein Particle Flow for Estimating Labels from Label Proportions<br>
 	    A. Rakotomamonjy, L. Ralaivola and <b>M. Vono</b><br>
-		<br/><br/>
   	</li>
 </ol>
 
