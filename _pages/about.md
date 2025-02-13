@@ -30,6 +30,7 @@ My Ph.D. works focused on deriving a broad [approximate statistical framework](h
 - Finalist, Best Student Paper Award, IEEE MLSP 2018
 
 ## News
+<i class="fa fa-fw fa-newspaper"></i> **2025/02** Two new preprints on [data valuation](https://arxiv.org/abs/2502.06574) and learning from label proportions!                                                                                                                        
 <i class="fa fa-fw fa-newspaper"></i> **2025/01** Our [paper](https://arxiv.org/abs/2410.09506) on private mean estimation under user-level differential privacy has been accepted at AISTATS 2025!                                                                         
 <i class="fa fa-fw fa-newspaper"></i> **2024/09** Our [paper](https://arxiv.org/abs/2306.02071) on dataset valuation using novel Shapley value estimators has been accepted at NeurIPS 2024!                                                        
 <i class="fa fa-fw fa-newspaper"></i> **2024/09** Our position [paper](https://hal.science/hal-04438186/document) on local differential privacy & computational advertising has been accepted at WISE 2024!                           
