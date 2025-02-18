@@ -19,6 +19,11 @@ You can also find all my research works on my [Google Scholar](https://scholar.g
 
 <ol reversed>
 	<li>
+	  CriteoPrivateAd: A Real-World Bidding Dataset to Design Private Advertising Systems<br>
+	    M. Sebbar et al.<br>
+	  <a style="font-size:15px" href="https://arxiv.org/abs/2502.12103"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
+  	</li>
+	<li>
 	  On the Impact of the Utility in Semivalue-based Data Valuation<br>
 	    M. Tamine, B. Heymann, P. Loiseau and <b>M. Vono</b><br>
 	  <a style="font-size:15px" href="https://arxiv.org/abs/2502.06574"><i class="ai ai-arxiv"></i> arXiv</a> &emsp;
